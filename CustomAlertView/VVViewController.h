@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import "VVAlertViewController.h"
 
-@interface VVViewController : UIViewController <VVAlertViewControllerDelegate>
+@interface VVViewController : UIViewController <VVAlertViewControllerDelegate> {
 
 
+}
 
 - (IBAction)showAlert:(id)sender;
-
 
 @end
