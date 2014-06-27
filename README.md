@@ -3,14 +3,14 @@ VVAlertViewController
 
 Version License  MIT Platform: iOS7
 
-A lightweight, easy-to-use custopm alert for iOS 7.
+A lightweight, easy-to-use custom alert for iOS 7.
 
 
 With this library you can:
 
-       You can easily edir the custom alert background as image or any RGB color
-       Customise the alert title. with any font you want
-       Also can add the backgroud image as overlay on whole screen
+       You can easily edit the custom alert background as image or any RGB color.
+       Customise the alert title, with any font you want.
+       Also can add the backgroud image as overlay on whole screen.
        
        
  See the demo project of vvalertviewcontroller
