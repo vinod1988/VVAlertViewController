@@ -14,7 +14,8 @@
 
 @implementation VVAlertViewController
 
-@synthesize showPopView, delegate;
+@synthesize showPopView;
+@synthesize delegate;
 
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
